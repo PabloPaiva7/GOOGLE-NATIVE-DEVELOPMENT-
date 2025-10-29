@@ -1,0 +1,14 @@
+Categoria,Serviço,Descrição,Prazo (dias úteis),Meio de Entrega,Valor (R$)
+Data Analytics e Automação,Dashboard Executivo,Painel visual interativo com storytelling de dados e indicadores estratégicos.,10,Looker Studio / Power BI + PDF resumo executivo,2800
+Data Analytics e Automação,Automação de Relatórios,Scripts inteligentes para atualização e envio automático de relatórios.,7,Repositório GitHub + tutorial em vídeo,1800
+Data Analytics e Automação,Integrações entre Plataformas,"Criação de fluxos automáticos entre sistemas (CRM, ERP, Sheets, APIs).",7,Fluxo documentado + vídeo de demonstração,2200
+Data Analytics e Automação,Funções Customizadas (GND),Desenvolvimento de funções específicas no Google Sheets com Apps Script.,5,Planilha funcional + mini-guia PDF,1000
+IA e Big Data,Criação de Agente Virtual,Desenvolvimento de chatbot ou assistente com IA integrada a dados internos.,15,Link web + vídeo tutorial + documentação PDF,4800
+IA e Big Data,Modelagem Preditiva,"Modelo de previsão (vendas, churn, quitação, etc.) com dashboard interpretativo.",12,Relatório PDF + código GitHub + visual interativo,3500
+IA e Big Data,Análise de Big Data,"Processamento e insights a partir de grandes volumes de dados (Python, SQL, APIs).",20,Notebook Python + relatório técnico + reunião final,5800
+Comunicação e Storytelling,Storytelling de Dados,Tradução de análises técnicas em narrativas visuais e de negócio.,7,Apresentação PDF + roteiro narrativo,1500
+Comunicação e Storytelling,Artigo Técnico / Educacional,"Produção de artigo tech sobre IA, dados e inovação para Medium ou LinkedIn.",5,Documento Word + versão revisada para publicação,600
+Comunicação e Storytelling,Ghostwriting Tech,Textos personalizados para posicionamento profissional e branding pessoal.,7,Documento Word + guia de tom e voz,900
+Consultoria e Mentoria,Consultoria Estratégica (IA + Negócios),Sessão de 1h com diagnóstico e plano de ação.,1,Reunião Google Meet + relatório PDF,500
+Consultoria e Mentoria,Mentoria 1:1,4 encontros quinzenais para orientação e desenvolvimento de carreira.,30,Reuniões online + plano de evolução,1500
+Consultoria e Mentoria,Revisão de Projetos e Portfólios,Avaliação técnica e narrativa de portfólios e notebooks.,5,Relatório PDF + gravação opcional de feedback,600
